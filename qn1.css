@@ -1,0 +1,51 @@
+
+div{
+    text-align: center;
+    line-height: 20px;
+    
+}
+.div1{
+   
+    color: blue;
+}
+.div2{
+    
+    color: red;
+}
+
+.div3{
+  
+    color: yellow;
+}
+.div4{
+    color:green;
+}
+p{ padding-bottom: none;
+
+}
+
+.india{
+    padding-left: 150px;
+    padding-bottom: 0px;
+    margin-bottom: -40px;
+    
+}
+
+.india2{
+    padding-left: 120px;
+    padding-bottom: 1px;
+    padding-top: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.google{
+   font-size: 120px;
+   padding-top: 70px ;
+   margin-top: 50px;
+   margin-bottom: 30px;
+  letter-spacing: -15px;
+   
+}
+.label1{  
+ padding-top: 70px;
+}

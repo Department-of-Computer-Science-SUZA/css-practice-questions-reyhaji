@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(207, 241, 120);
+
+}
+a:visited
+{
+    color: blue;
+}
+ a:hover{
+    color: rgb(241, 11, 11);
+ }
+
+.p{
+    color: red;
+ }
+ .p1{
+    color: blueviolet;
+ }
+ img{
+    float: right;
+    width: 200px;
+    height: 300px;
+ }
+ h1{
+    color: rgb(4, 4, 235);
+    text-align: center;
+ }
+ h2{
+    color: blue;
+    text-align: center;
+ }

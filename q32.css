@@ -1,0 +1,28 @@
+table,th,td{
+    border: 1px solid;
+}
+th{
+    background: rgb(105, 105, 235);
+}
+td{
+   background-color: aquamarine;
+}
+img{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+h1{
+    color: rgb(184, 6, 6);
+    text-align: center;
+}
+a:visited
+{
+    color: blue;
+}
+ a:hover{
+    color: rgb(241, 11, 11);
+ }
+ body{
+    background-color: rgb(175, 234, 127);
+ }

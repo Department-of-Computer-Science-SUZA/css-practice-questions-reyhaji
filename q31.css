@@ -1,0 +1,25 @@
+img{
+    border: 2px solid  darkblue;
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+.p{
+    text-align: center;
+    color: red;
+}
+.p1{
+   color: brown;
+
+}
+
+a:visited
+{
+    color: blue;
+}
+ a:hover{
+    color: rgb(241, 11, 11);
+ }
+ body{
+    background-color: rgb(136, 230, 232);
+ }
